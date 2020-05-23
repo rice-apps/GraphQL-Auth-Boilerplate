@@ -1,4 +1,4 @@
-import { User, UserTC, ScheduleTC } from '../models';
+import { User, UserTC } from '../models';
 import { authenticateTicket, verifyToken, createToken } from '../utils/authenticationUtils';
 
 /**
